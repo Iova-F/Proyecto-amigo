@@ -1,11 +1,10 @@
 {
   "compilerOptions": {
-    "jsx": "react-jsx",
     "target": "esnext",
     "module": "esnext",
-    "moduleResolution": "node",
+    "jsx": "react-jsx",
     "strict": true
   },
- "include": ["src", "app.tsx", "index.tsx"],
+  "include": ["src", "app.tsx", "index.tsx"],
   "exclude": ["node_modules"]
 }
